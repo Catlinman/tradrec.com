@@ -1,6 +1,6 @@
-# Traditional Records #
+# Tradrec #
 
-This repository contains the source code for the official [Traditional Records website](http://tradrec.com).
+This repository contains the source code for the official [Tradrec website](http://tradrec.com).
 
 ## License ##
 
